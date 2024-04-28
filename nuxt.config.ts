@@ -5,7 +5,6 @@ export default defineNuxtConfig({
       pathPrefix:false,
     },
   ],
-
   // https://github.com/nuxt-themes/alpine
   extends: '@nuxt-themes/alpine',
 
