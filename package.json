@@ -10,10 +10,11 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@nuxt-themes/alpine": "latest",
-    "@nuxt/devtools": "latest",
+    "@nuxt-themes/alpine": "^1.6.2",
+    "@nuxt/devtools": "^4.0.0-alpha.7",
     "@nuxt/eslint-config": "latest",
     "@nuxt/image": "latest",
+    "@nuxt/ui-templates": "^1.3.4",
     "@nuxtjs/mdc": "latest",
     "@nuxtjs/plausible": "latest",
     "@shikijs/twoslash": "latest",
@@ -22,6 +23,6 @@
     "nuxt": "latest"
   },
   "dependencies": {
-    "@nuxtjs/router": "latest"
+    "@nuxtjs/router": "^1.5.1"
   }
 }
